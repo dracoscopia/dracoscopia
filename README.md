@@ -1,9 +1,9 @@
 ![Auto Assign](https://github.com/dracoscopia/demo-repository/actions/workflows/auto-assign.yml/badge.svg)
 ![Proof HTML](https://github.com/dracoscopia/demo-repository/actions/workflows/proof-html.yml/badge.svg)
 
-# Welcome to your organization’s demo repository
+# Welcome to your Dracoscopia organization’s repository
 
-This repository showcases two cutting‑edge web platforms—**DracoScopia** and **RealmsZ**—complete with live screenshots, feature overviews, and starter files to help you get up and running in minutes.
+This repository showcases two cutting‑edge web platforms—**Dracoscopia** and **Realmsz**—complete with live screenshots, feature overviews, and starter files to help you get up and running in minutes.
 
 ---
 
@@ -27,4 +27,4 @@ This repository showcases two cutting‑edge web platforms—**DracoScopia** and
 
 1. Clone this repo:  
    ```bash
-   git clone https://github.com/dracoscopia/demo-repository.git
+   git clone https://github.com/dracoscopia/dracoscopia.git
